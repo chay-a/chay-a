@@ -1,11 +1,8 @@
 <img src="https://github.com/chay-a/chay-a/blob/main/Banni%C3%A8re(1).png">
 
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=chay-a)](https://github.com/chay-a)
 
-- 👋 Hi, I’m @chay-a
-- 👀 I’m interested in a lot of things.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chay-a&layout=compact)](https://github.com/chay-a)
 
 <!---
 chay-a/chay-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
