@@ -1,4 +1,4 @@
-<img src="">
+<img src="https://github.com/chay-a/chay-a/blob/main/Banni%C3%A8re(1).png">
 
 
 - 👋 Hi, I’m @chay-a
